@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Explorer-blue" alt="Python Explorer" />
+  <img src="https://img.shields.io/badge/Python-Explorer-blue" alt="PENETRATION TESTER" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=127.0.0.1;+Eat+,+practice+,+practice+,+sleep+,+Repeat!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=127.0.0.1;+Eat+,+practice+,+sleep+,+Repeat!" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
