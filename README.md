@@ -11,11 +11,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=127.0.0.1;+Eat+,+practice+,+sleep+,+Repeat!" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+<h1 align="center">
+  🕵️‍♂️ Abdul Wasay Jagirdar
+</h1>
+<p align="center">
+  <code>Ethical Hacker</code> • <code>Penetration Tester</code> • <code>Security Researcher</code> • <code>Red Teamer</code>
+</p>
 
+<p align="center">
+  <a href="mailto:jawpent9999@proton.me">📧 Email</a> • 
+  <a href="https://jawstar.medium.com">📝 Blog</a> • 
+  <a href="https://github.com/JawStar">💻 GitHub</a> • 
+  <a href="https://linkedin.com/in/abdul-wasay-jagirdar-b416822b4">🔗 LinkedIn</a>
+</p>
 
-- 👨‍💻 Tryhackme lover , Ethical Hacker and Wireless penetration tester
-- ⚡ Fun Fact: **Computers are the only things where too much heat causes freezing!** 🕵️‍♂️
+---
+
+## 🧠 About Me
+
+```bash
+> whoami
 
 ## 🤝 Connect with Me
 
