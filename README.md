@@ -18,6 +18,12 @@
   <code>Ethical Hacker</code> • <code>Penetration Tester</code> • <code>Security Researcher</code> • <code>Red Teamer</code>
 </p>
 
+## 🧠 About Me
+
+```bash
+> whoami
+
+## 🤝 Connect with Me
 <p align="center">
   <a href="mailto:jawpent9999@proton.me">📧 Email</a> • 
   <a href="https://jawstar.medium.com">📝 Blog</a> • 
@@ -25,19 +31,6 @@
   <a href="https://linkedin.com/in/abdul-wasay-jagirdar-b416822b4">🔗 LinkedIn</a>
 </p>
 
----
-
-## 🧠 About Me
-
-```bash
-> whoami
-
-## 🤝 Connect with Me
-
- <a href="https://jawstar.medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-FFA116?style=for-the-badge&logo=medium&logoColor=White" alt="Medium" />
-  </a>
- </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/JawStar/count.svg" alt="Visitors">
  </p>
