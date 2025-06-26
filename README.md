@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-```bash
+
 > whoami
 
 ## 🤝 Connect with Me
